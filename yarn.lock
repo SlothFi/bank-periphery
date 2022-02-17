@@ -325,14 +325,14 @@
   dependencies:
     "@types/node" "*"
 
-"@venomswap/core@1.0.0":
+"@slothfi/bank-core@1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/core-1.0.0.tgz#f1336702e8ecce6b79b06212220da43a34b3749c"
   integrity sha512-cd4+e5KKH7QmSjMhe50lty35eHuZVTh9YYnkWPdQPe6KG3R5P5JE3LFliwNLpuV4jWEYYRlEa3OaG3ie+BlYrg==
 
-"@venomswap/lib@1.0.0":
+"@slothfi/bank-lib@1.0.0":
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/lib/-/lib-1.0.0.tgz#8e76f9d2746c8f0a892ba0a28c7ec7d14bec609c"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-lib/-/lib-1.0.0.tgz#8e76f9d2746c8f0a892ba0a28c7ec7d14bec609c"
   integrity sha512-3i0gg+Xlm6n0sy0oJi3SaOd8sARH92vWrdphJMRo7cObR9dp0IvXLcXV2eDxQto0Faa1IB/FOpx/NqgtopiQvA==
 
 "@yarnpkg/lockfile@^1.1.0":

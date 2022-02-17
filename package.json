@@ -1,22 +1,22 @@
 {
-  "name": "@venomswap/periphery",
+  "name": "@slothfi/bank-periphery",
   "version": "1.0.0",
-  "description": "🎚 Peripheral smart contracts for interacting with the Venomswap exchanges",
+  "description": "🎚 Peripheral smart contracts for interacting with the SlothFi exchanges",
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://venomdao.org",
+  "homepage": "bank.defimons.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VenomProtocol/venomswap-periphery"
+    "url": "https://github.com/SlothFi/bank-periphery"
   },
   "files": [
     "build",
     "contracts"
   ],
   "dependencies": {
-    "@venomswap/lib": "1.0.0",
-    "@venomswap/core": "1.0.0"
+    "@slothfi/bank-lib": "1.0.0",
+    "@slothfi/bank-core": "1.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",

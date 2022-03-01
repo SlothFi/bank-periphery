@@ -255,10 +255,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@slothfi/bank-core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/bank-core-1.0.0.tgz#e8782165488f05645be8a55006ee7e1a4b2ca8d7"
-  integrity sha512-gylmpKvgeViFVOpWh7fkYfHgBuis7efnRAWDrm4zvRnCRqD4kjHrbR/bysjDWseRORrSdnlbh3KI99ljEb9vbw==
+"@slothfi/bank-core@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/bank-core-1.0.1.tgz#0a8752dd2d48924c08c3bcfb888115b6f3ee5439"
+  integrity sha512-ZZw+3eKD+XqCjWPVvPLRjHI9pCpo5/FStG6kFT3wi9YZesSJHwNpu4C4OOzxmjgTeLU7fDWInZrzXbwTOpd0cA==
 
 "@slothfi/bank-lib@1.0.0":
   version "1.0.0"
